@@ -2,7 +2,7 @@
 Uma rede social desenvolvida com a linguagem de programação Python e o *framework* Django.   
 
 ### Link do projeto:
-A ser postado
+https://github.com/thaisC11/experiencein.git
 
 ### Pré requisitos:
 * Instalação do **Django** na **versão 2.2** 
