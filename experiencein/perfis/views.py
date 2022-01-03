@@ -1,11 +1,4 @@
-from django.shortcuts import redirect, render
-from experiencein import perfis
-from perfis.models import Perfil
-
-def index(request):
-    return render(request, 'index.html', { 'perfis' : Perfil.objects.all()})
-
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from perfis.models import Perfil
 
 def index(request):
